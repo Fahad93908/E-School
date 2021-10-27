@@ -1,0 +1,14 @@
+@media(max-width:575px){
+    .client{
+        margin: auto;
+    }
+    footer p{
+        text-align: center;
+    }
+    .text-center{
+        font-size: 20px;
+    }
+    .navbar-nav{
+        text-align: center;
+    }
+}
